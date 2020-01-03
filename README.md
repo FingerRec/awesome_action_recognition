@@ -212,8 +212,8 @@ Paper: [arxiv_address](https://arxiv.org/abs/1904.02811)
 ### ICCV
 #### oral
 
-**1.SlowFast Networks for Video Recognition** :sparkles:
-<h3 id="1.1"> record </h3>
+**<h3 id="1.1">1.SlowFast Networks for Video Recognition</h3>** :sparkles:
+
 Authors: Christoph Feichtenhofer Haoqi Fan Jitendra Malik Kaiming He
 
 Institutions: Facebook AI Research (FAIR)
