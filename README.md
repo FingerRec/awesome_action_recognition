@@ -4,11 +4,11 @@ __awesome action recognition works in recently years__
 > :sparkles: :important work(5)   :rocket: :interesting work(4) :+1: :good work(3) :camel: :another paper(2) :octocat: :not recommed(1)
 
 
-Year | Important work | Interesting work
------------- | -------------  | -------------
-2020 | | -
-2019 | [slowfast](#19_iccv_slowfast) |
-2018 | |
+Year | Important work | Interesting work | good work
+------------ | -------------  | ------------- | ------------- 
+2020 | | - |
+2019 | [slowfast](#19_iccv_slowfast) | [Dynamic](#19_iccv_dyna) | [TCC](#19_cvpr_tcc)
+2018 | | |
 
 [TOC]
 
@@ -177,6 +177,9 @@ Code:
 
 Paper: [arxiv_address](https://arxiv.org/abs/1904.04289)
 
+
+<h3 id="19_cvpr_tcc"></h3>
+
 **13.Temporal Cycle-Consistency Learning** :+1:
 
 Authors: Debidatta Dwibedi, Yusuf Aytar, Jonathan Tompson, Pierre Sermanet, Andrew Zisserman
@@ -230,6 +233,7 @@ Introduction: Deal with time multifrequency via temporal decoupling.
 
 #### poster
 
+<h3 id="19_iccv_dyna"></h3>
 **1.DynamoNet: Dynamic Action and Motion Network** :rocket:
 
 Authors: Ali Diba1,⋆, Vivek Sharma2,⋆, Luc Van Gool1,3, Rainer Stiefelhagen2
