@@ -234,6 +234,7 @@ Introduction: Deal with time multifrequency via temporal decoupling.
 #### poster
 
 <h3 id="19_iccv_dyna"></h3>
+
 **1.DynamoNet: Dynamic Action and Motion Network** :rocket:
 
 Authors: Ali Diba1,⋆, Vivek Sharma2,⋆, Luc Van Gool1,3, Rainer Stiefelhagen2
