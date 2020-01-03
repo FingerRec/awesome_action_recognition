@@ -1,7 +1,14 @@
-# awesome_action_recognition
-> awesome action recognition works in recently years
+# awesome action recognition
+__awesome action recognition works in recently years__
 
 > :sparkles: :important work(5)   :rocket: :interesting work(4) :+1: :good work(3) :camel: :another paper(2) :octocat: :not recommed(1)
+
+
+Year | Important work | Interesting work
+------------ | -------------  | -------------
+2020 | [slowfast](#1.1) | a
+
+[TOC]
 
 ## 2020
 ### CVPR
@@ -206,7 +213,7 @@ Paper: [arxiv_address](https://arxiv.org/abs/1904.02811)
 #### oral
 
 **1.SlowFast Networks for Video Recognition** :sparkles:
-
+<h3 id="1.1"> record </h3>
 Authors: Christoph Feichtenhofer Haoqi Fan Jitendra Malik Kaiming He
 
 Institutions: Facebook AI Research (FAIR)
